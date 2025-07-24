@@ -1,3 +1,4 @@
+# Заметное отклонение
 import statistics
 
 def detect_anomaly(coin, score, history, window_size=10, threshold=2.0):
